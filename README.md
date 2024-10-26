@@ -31,5 +31,3 @@ The final model demonstrates high accuracy and precision in identifying toxic co
 Potential improvements include experimenting with deep learning models like LSTM and BERT for higher accuracy and handling large datasets more effectively.
 
 ---
-
-This description should give others a clear understanding of your project’s goals, methodology, and impact on online moderation! Let me know if you'd like to add any more specific details.
