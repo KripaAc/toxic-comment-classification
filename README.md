@@ -1,4 +1,4 @@
-# toxic-comment-classification
+# Toxic-comment-classification
 A machine learning model to classify toxic comments for content moderation
 Here’s a detailed yet concise project description for your **Toxic Comment Classification** project:
 
